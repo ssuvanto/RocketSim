@@ -1,0 +1,13 @@
+<FlightProfile>
+	<Definitions>
+		<Vehicle name=stage1 parent=null>
+			<EmptyMass mass=22200 comx=0 comy=-15 />
+			<Propellant mass=409500 comx=0 comy=-25 />
+			<Engine name=engine1 type=Merlin offsetx=-1.2 offsety=0 angle=0 />
+			<Engine name=engine2 type=Merlin offsetx=-1.2 offsety=0 angle=0 />
+		</Vehicle>
+	</Definitions>
+	<Events>
+	
+	</Events>
+</FlightProfile>

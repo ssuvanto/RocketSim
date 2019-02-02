@@ -1,0 +1,13 @@
+C:\Users\Samu\Documents\koodaus\csharp\RocketSim\RocketSim\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\Samu\Documents\koodaus\csharp\RocketSim\RocketSim\bin\DesktopGL\x86\Debug\RocketSim.exe
+C:\Users\Samu\Documents\koodaus\csharp\RocketSim\RocketSim\bin\DesktopGL\x86\Debug\RocketSim.pdb
+C:\Users\Samu\Documents\koodaus\csharp\RocketSim\RocketSim\bin\DesktopGL\x86\Debug\MonoGame.Extended.dll
+C:\Users\Samu\Documents\koodaus\csharp\RocketSim\RocketSim\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\Samu\Documents\koodaus\csharp\RocketSim\RocketSim\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\Samu\Documents\koodaus\csharp\RocketSim\RocketSim\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\Samu\Documents\koodaus\csharp\RocketSim\RocketSim\obj\x86\Debug\RocketSim.csprojResolveAssemblyReference.cache
+C:\Users\Samu\Documents\koodaus\csharp\RocketSim\RocketSim\obj\x86\Debug\RocketSim.exe
+C:\Users\Samu\Documents\koodaus\csharp\RocketSim\RocketSim\obj\x86\Debug\RocketSim.pdb
+C:\Users\Samu\Documents\koodaus\csharp\RocketSim\RocketSim\bin\DesktopGL\x86\Debug\Content\Verdana.xnb
+C:\Users\Samu\Documents\koodaus\csharp\RocketSim\RocketSim\bin\DesktopGL\x86\Debug\Content\f9s1.xnb
+C:\Users\Samu\Documents\koodaus\csharp\RocketSim\RocketSim\bin\DesktopGL\x86\Debug\Content\f9s2dragon.xnb
